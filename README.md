@@ -12,3 +12,7 @@ mvn tomcat7:run
 ```
 mvn tomcat7:stop
 ```
+## Default URL
+```
+http://localhost:8085/dsp-ad-server/index.jsp
+```
