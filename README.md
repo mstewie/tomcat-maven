@@ -16,3 +16,5 @@ mvn tomcat7:stop
 ```
 http://localhost:8085/dsp-ad-server/index.jsp
 ```
+## Tomcat Maven Plugin Documentation
+[tomcat7-maven-plugin docs](http://tomcat.apache.org/maven-plugin-2.2/tomcat7-maven-plugin/run-mojo.html)
